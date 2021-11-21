@@ -88,7 +88,7 @@ header .logo i{
 header .navbar a{
   font-size: 2rem;
   margin-left: 2rem;
-  color:rgb(150, 108, 108);
+  color:rgb(56 239 10);
 }
 header .navbar a:hover{
   color:var(--red);
