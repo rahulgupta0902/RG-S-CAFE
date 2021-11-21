@@ -72,7 +72,7 @@ header{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background:rgb(19, 10, 10);
+  background:rgb(115, 168, 202);
   padding:2rem 9%;
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
 }
@@ -98,7 +98,7 @@ header .navbar a:hover{
 #menu-bar{
   font-size: 3rem;
   cursor: pointer;
-  color:#666;
+  color:rgb(98, 230, 10);
   border:.1rem solid #666;
   border-radius: .3rem;
   padding:.5rem 1.5rem;
@@ -113,6 +113,7 @@ header .navbar a:hover{
   background:url(../images/michal-parzuchowski-ItaV89TNkks-unsplash.jpg) no-repeat;
   background-size: cover;
   background-position: center;  
+  color: #4ec237;
 }
 .home .content{
   flex:1 1 40rem;
